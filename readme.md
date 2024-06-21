@@ -4,7 +4,7 @@ Este proyecto es el resultado del trabajo realizado como proyecto final del curs
 
 # Watch.PY
 
-Este repositorio contiene el código fuente para el proyecto Watch.PY, una plataforma de streaming para.
+Este repositorio contiene el código fuente para el proyecto Watch.PY, una plataforma de streaming.
 
 ## Contenido
 
