@@ -23,7 +23,7 @@ Para configurar y ejecutar el proyecto, sigue los siguientes pasos:
 1. Clona este repositorio:
 
     ```bash
-    git clone https://github.com/laresp23/APP.Watch.PY.git
+    git clone https://github.com/luisaap-dev/APP.Watch.PY
     ```
 2. Abre la carpeta Backend y sigue las indicaciones del readme.md
 
